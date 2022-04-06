@@ -1,0 +1,35 @@
+.body, html {
+  text-align: center;
+  background-color: cornflowerblue;
+  
+}
+
+.App {
+  text-align: center;
+}
+.userInput {
+  margin: 10px;
+}
+
+.unique {
+  margin: 10px;
+}
+
+.header {
+  height: 160px;
+  width: 100%;
+  margin: 0;
+  border-bottom: 1px solid grey;
+  display: grid;
+  place-items: center;
+}
+
+.userInput {
+  margin: 10px;
+  padding: 5px;
+}
+
+.userWord {
+  margin: 10px;
+  padding: 5px;
+}
